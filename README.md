@@ -6,7 +6,7 @@ This is the backend for a secure **Google login authentication system** using **
 
 ## 🌐 Live Backend
 
-🟢 [Render Deployment](https://google-login-backend-021c.onrender.com)
+🟢 [https://google-login-backend-021c.onrender.com](https://github.com/shivamdubeyagra/google-login-backend.git)
 
 ---
 
@@ -33,10 +33,10 @@ This is the backend for a secure **Google login authentication system** using **
 
 ---
 # 1. Clone the repo
-git clone https://github.com/your-username/google-oauth-backend.git
+git clone https://github.com/your-username/google-login-backend.git
 
 # 2. Install dependencies
-cd google-oauth-backend
+cd google-login-backend
 npm install
 
 # 3. Create .env file
