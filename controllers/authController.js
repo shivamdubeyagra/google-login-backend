@@ -58,7 +58,7 @@ const googleLogin = async (req, res) => {
       .cookie("auth_token", jwtToken, {
         httpOnly: true,         // 🔐 JS can't access
         secure: true,           // 🔐 HTTPS only
-        sameSite: "Strict",     // 🔐 protect against CSRF
+        sameSite: "None",     // 🔐 protect against CSRF
         maxAge: 12 * 60 * 60 * 1000, // ⏱️ 12 hours
       })
       .status(200)
