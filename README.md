@@ -6,7 +6,7 @@ This is the backend for a secure **Google login authentication system** using **
 
 ## 🌐 Live Backend
 
-🟢 [https://google-login-backend-021c.onrender.com](https://github.com/shivamdubeyagra/google-login-backend.git)
+🟢 [Render Deployment](https://google-login-backend-021c.onrender.com)
 
 ---
 
